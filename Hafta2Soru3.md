@@ -22,4 +22,5 @@ from time_window
 order by user_by_minute
 
 /* Thanks to Faruk Aşçı for his help. */
+/* Sıralamayı öne alabilirsen 2. kolondan kurtul. */
 ```
